@@ -41,7 +41,7 @@ No momento os seguintes tópicos estão sendo estudados ou na fila:
 **Roadmap elaborado para cada área de meu interesse.**
 
 ## Desenvolvimento de Software
-### BACKEND
+### [BACKEND](https://roadmap.sh/backend)
 |Assunto|Linguagem/Ferramenta|Status|
 |---|---|---|
 |Linguagem Base|Python|Estudando|
@@ -49,7 +49,7 @@ No momento os seguintes tópicos estão sendo estudados ou na fila:
 |Base de dados|SQL/ SQLite ou MySQL|-|
 |APIs|REST, APIs JSON, Autenticação|-|
 
-### FRONTEND
+### [FRONTEND](https://roadmap.sh/frontend)
 |Linguagem / Ferramenta|Assunto|Status|
 |---|---|---|
 |HTML|Básicos, Semântica, Acessibilidade, Validações | - |
@@ -65,10 +65,25 @@ No momento os seguintes tópicos estão sendo estudados ou na fila:
 |---|---|
 |MonthPlan|Em Desenvolvimento|
 
-
 </details>
 
 ## Segurança da Informação
+
+### [CYBER SECURITY](https://roadmap.sh/cyber-security)
+|Assunto|Status|
+|---|---|
+|Hardware e Componentes de um Computador|-|
+|Tipos de Conexão e suas Funções| - |
+|Computer Networking| - |
+|Sistemas Operacionais - Linux, Windows e MacOS|-|
+|Topologia de Rede|-|
+|Basicos de Internet Protocol (IP)|-|
+|Métodos de Autenticação|-|
+|Troubleshooting|-|
+|Tipos de ataques e diferenças|-|
+|Criptografia|-|
+|Ethical Hacking|-|
+|Pentest|-|
 
 
 ## Inteligencia Artificial 
