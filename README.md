@@ -1,4 +1,4 @@
-# Plano-de-Estudo
+# Estudos
 Este repositório tem como objetivo organizar e acompanhar meus estudos nas diversas áreas que me interessam.
 
 # Introdução
@@ -9,12 +9,68 @@ No momento os seguintes tópicos estão sendo estudados ou na fila:
 
 - Desenvolvimento de Software
 - Segurança da Informação
+- Inteligência Artificial
   
 # Cursos e certificações
 
 | Curso | Status |
-| ---------------- | ------ |
-| Harvard CS50 | Realizando |
-|ADS na Anhembi| Realizando |
+| ---------------- | ---------------- |
+| [HarvardX: CS50's - Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) | Realizando |
+| ADS na Anhembi| Realizando |
 | Python na Udemy| Na fila |
 | Engenharia de Software| Futuramente |
+|[HarvardX: CS50's Introduction to Cybersecurity](https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity)|Futuramente|
+|[HarvardX: CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)|Futuramente|
+
+# Projetos
+
+|Projeto|Linguagens|Repositório|Status|
+|---|---|---|---|
+|MonthPlan|Python| N/A | Em Desenvolvimento|
+
+<details>
+<summary> Próximos projetos</summary>
+
+- Desenvolver um jogo completo e publicar
+- Asssistente IA no desktop
+
+</details>
+
+# Plano de Estudos
+
+**Roadmap elaborado para cada área de meu interesse.**
+
+## Desenvolvimento de Software
+### BACKEND
+|Assunto|Linguagem/Ferramenta|Status|
+|---|---|---|
+|Linguagem Base|Python|Estudando|
+|Versionamento e Controle de Versão|Git e GitHub|-|
+|Base de dados|SQL/ SQLite ou MySQL|-|
+|APIs|REST, APIs JSON, Autenticação|-|
+
+### FRONTEND
+|Linguagem / Ferramenta|Assunto|Status|
+|---|---|---|
+|HTML|Básicos, Semântica, Acessibilidade, Validações | - |
+|CSS|Layouts, Design| - |
+|Javascript|Manipulaçao DOM, | - |
+|Git e GitHub|Versionamento e Controle de Versão|-|
+|React|Framework|- |
+
+<details>
+<summary> Projetos relacionados </summary>
+
+|Projeto|Status|
+|---|---|
+|MonthPlan|Em Desenvolvimento|
+
+
+</details>
+
+## Segurança da Informação
+
+
+## Inteligencia Artificial 
+
+
