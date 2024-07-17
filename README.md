@@ -26,7 +26,7 @@ No momento os seguintes tópicos estão sendo estudados ou na fila:
 
 |Projeto|Linguagens|Repositório|Status|
 |---|---|---|---|
-|MonthPlan|Python| N/A | Em Desenvolvimento|
+|MonthPlan|Python| https://github.com/Rafael-Magalhaes0820/MonthPlan | Em Desenvolvimento|
 
 <details>
 <summary> Próximos projetos</summary>
@@ -63,7 +63,7 @@ No momento os seguintes tópicos estão sendo estudados ou na fila:
 
 |Projeto|Status|
 |---|---|
-|MonthPlan|Em Desenvolvimento|
+|[MonthPlan](https://github.com/Rafael-Magalhaes0820/MonthPlan)|Em Desenvolvimento|
 
 </details>
 
