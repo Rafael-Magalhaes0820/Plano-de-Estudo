@@ -27,12 +27,13 @@ No momento os seguintes tópicos estão sendo estudados ou na fila:
 |Projeto|Linguagens|Repositório|Status|
 |---|---|---|---|
 |MonthPlan|Python| https://github.com/Rafael-Magalhaes0820/MonthPlan | Em Desenvolvimento|
+|Assistente IA|Python|https://github.com/Rafael-Magalhaes0820/Assistente-IA| Em Desenvolvimento|
+|Framework Básico|Python| N/A | Em Desenvolvimento|
 
 <details>
 <summary> Próximos projetos</summary>
 
 - Desenvolver um jogo completo e publicar
-- Asssistente IA no desktop
 
 </details>
 
