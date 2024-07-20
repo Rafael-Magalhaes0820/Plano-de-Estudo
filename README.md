@@ -15,12 +15,13 @@ No momento os seguintes tópicos estão sendo estudados ou na fila:
 
 | Curso | Status |
 | ---------------- | ---------------- |
+| [HarvardX: CS50's - Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) | Estudando |
 | ADS na Anhembi| Estudando |
 | Python na Udemy| Na fila |
 | Engenharia de Software| Futuramente |
 |[HarvardX: CS50's Introduction to Cybersecurity](https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity)|Futuramente|
 |[HarvardX: CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)|Futuramente|
-| [HarvardX: CS50's - Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) | Futuramente |
+
 
 # Projetos
 
