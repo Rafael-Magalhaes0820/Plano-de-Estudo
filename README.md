@@ -47,7 +47,7 @@ No momento os seguintes tópicos estão sendo estudados ou na fila:
 |Assunto|Linguagem/Ferramenta|Status|
 |---|---|---|
 |Linguagem Base|Python|Estudando|
-|Versionamento e Controle de Versão|Git e GitHub|-|
+|Versionamento e Controle de Versão|Git e GitHub|Estudando|
 |Base de dados|SQL/ SQLite ou MySQL|-|
 |APIs|REST, APIs JSON, Autenticação|-|
 
