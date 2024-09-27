@@ -30,6 +30,7 @@ No momento os seguintes tópicos estão sendo estudados ou na fila:
 |MonthPlan|Python| https://github.com/Rafael-Magalhaes0820/MonthPlan | Versão 1.0 Pronta - Desenvolvimento Parado|
 |Assistente IA|Python|https://github.com/Rafael-Magalhaes0820/Assistente-IA| Em Desenvolvimento|
 |Framework Básico|Python|https://github.com/Rafael-Magalhaes0820/Magara-Framework| Finalizado|
+|VBS_Debugger|Python|https://github.com/Rafael-Magalhaes0820/VBS_Debbuger|Pronto|
 
 <details>
 <summary> Próximos projetos</summary>
