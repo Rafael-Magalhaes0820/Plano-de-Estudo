@@ -31,6 +31,7 @@ No momento os seguintes tópicos estão sendo estudados ou na fila:
 |Assistente IA|Python|https://github.com/Rafael-Magalhaes0820/Assistente-IA| Em Desenvolvimento|
 |Framework Básico|Python|https://github.com/Rafael-Magalhaes0820/Magara-Framework| Finalizado|
 |VBS_Debugger|Python|https://github.com/Rafael-Magalhaes0820/VBS_Debbuger|Pronto|
+|UI Element Fetcher|Python|https://github.com/Rafael-Magalhaes0820/UI_Element_Fetcher|Em Planejamento|
 
 <details>
 <summary> Próximos projetos</summary>
