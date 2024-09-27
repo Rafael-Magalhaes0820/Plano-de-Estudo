@@ -15,7 +15,7 @@ No momento os seguintes tópicos estão sendo estudados ou na fila:
 
 | Curso | Status |
 | ---------------- | ---------------- |
-| [HarvardX: CS50's - Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) | Estudando |
+| [HarvardX: CS50's - Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) | Futuramente |
 | ADS na Anhembi| Estudando |
 | Python na Udemy| Na fila |
 | Engenharia de Software| Futuramente |
@@ -28,7 +28,7 @@ No momento os seguintes tópicos estão sendo estudados ou na fila:
 |Projeto|Linguagens|Repositório|Status|
 |---|---|---|---|
 |MonthPlan|Python| https://github.com/Rafael-Magalhaes0820/MonthPlan | Versão 1.0 Pronta - Desenvolvimento Parado|
-|Assistente IA|Python|https://github.com/Rafael-Magalhaes0820/Assistente-IA| Em Desenvolvimento|
+|Assistente IA|Python|https://github.com/Rafael-Magalhaes0820/Assistente-IA|Desenvolvimento Parado|
 |Framework Básico|Python|https://github.com/Rafael-Magalhaes0820/Magara-Framework| Finalizado|
 |VBS_Debugger|Python|https://github.com/Rafael-Magalhaes0820/VBS_Debbuger|Pronto|
 |UI Element Fetcher|Python|https://github.com/Rafael-Magalhaes0820/UI_Element_Fetcher|Em Planejamento|
